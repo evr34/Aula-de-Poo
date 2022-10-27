@@ -10,8 +10,8 @@ public class Retangulo {
         float p;
         p = calcularPerimetro();
         System.out.println("Retângulo: ");
-        System.out.println("- altura: " + altura);
-        System.out.println("- largura: " + largura);
+        System.out.println("- altura:    " + altura);
+        System.out.println("- largura:   " + largura);
         System.out.println("- perímetro: " + p);
     }
     public static void main(String[] args) {
